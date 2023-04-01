@@ -106,5 +106,6 @@ else if ((a == b) || (a==c) || (a==d) || (b==c) || (b==d) || (c == d))
     {
         printf("en kucuk sayi %d\n",d);
     }
+    return 0;
 
 }
